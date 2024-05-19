@@ -1,8 +1,8 @@
 class MacApps < Formula
   desc "CLI tool to query for macOS apps"
   homepage "https://github.com/JustasPolis/mac-apps-cli"
-  url "https://github.com/JustasPolis/mac-apps-cli/archive/refs/tags/1.1.1.tar.gz"
-  sha256 "0b08e58e3a00a488aae751377ffa995080ae54036c8a502ea34d0765cae4ffd7"
+  url "https://github.com/JustasPolis/mac-apps-cli/archive/refs/tags/1.2.0.tar.gz"
+  sha256 "116f24b708477fe74365aa5054421351a5c5a723249edf16163fccb0433208d4"
   license "MIT"
 
   depends_on xcode: [">= 15.2", :build]
